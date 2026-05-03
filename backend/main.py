@@ -6,7 +6,14 @@ from services.limiter import limiter
 from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 
-app = FastAPI()
+is_prod = settings.ENVIRONMENT == "production"
+
+app = FastAPI(
+    docs_url=None if is_prod else "/docs",
+    redoc_url=None if is_prod else "/redoc",
+    openapi_url=None if is_prod else "/openapi.json",
+)
+
 
 app.state.limiter = limiter
 app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)  # type: ignore
@@ -24,5 +31,8 @@ app.include_router(router, prefix="/api/v1")
 
 
 @app.get("/")
-async def root():
-    return {"message": "Hello World"}
+def root():
+    is_prod = settings.ENVIRONMENT == "production"
+    if is_prod:
+        return {"status": "ok"}
+    return {"status": "ok", "environment": "development"}
