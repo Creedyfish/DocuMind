@@ -1,5 +1,5 @@
 import wretch from "wretch";
 
-const api = wretch("http://127.0.0.1:8000").accept("application/json");
+const api = wretch(import.meta.env.VITE_API_URL).accept("application/json");
 
 export default api;
