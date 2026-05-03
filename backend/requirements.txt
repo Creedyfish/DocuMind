@@ -1,0 +1,10 @@
+fastapi[standard]
+uvicorn
+python-dotenv
+anthropic
+voyageai
+supabase
+pypdf
+pydantic-settings
+langchain-text-splitters
+slowapi
