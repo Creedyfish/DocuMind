@@ -184,7 +184,7 @@ export default function UploadPage() {
         .post()
         .error(429, () => {
           setError(
-            "⚠️ You've reached the upload limit of 10 per hour. Please try again later.",
+            "⚠️ You've reached the upload limit of 2 per day. Please try again later.",
           );
         })
         .res();

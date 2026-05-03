@@ -196,7 +196,7 @@ export default function ChatPage() {
             {
               role: "assistant",
               content:
-                "⚠️ You've reached the limit of 10 questions per hour. Please try again later.",
+                "⚠️ You've reached the limit of 5 questions per day. Please try again later.",
             },
           ]);
         })
