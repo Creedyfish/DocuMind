@@ -1,0 +1,100 @@
+{
+  "session_id": "b26789d2-25ee-4706-9f62-662f8a2d33d6",
+  "summary": {
+    "passed": 12,
+    "total": 15,
+    "avg_score": 0.71
+  },
+  "results": [
+    {
+      "question": "What were Berkshire's operating earnings in 2025 compared to 2024?",
+      "expected": "Berkshire delivered operating earnings of $44.5 billion in 2025, below $47.4 billion in 2024.",
+      "actual": "According to the document, Berkshire's operating earnings were:\n\n- **2025: $44.5 billion**\n- **2024: $47.4 billion**\n\nThis represents a decrease of $2.9 billion from 2024 to 2025.",
+      "score": 1.0
+    },
+    {
+      "question": "What were Berkshire's total revenues in 2025?",
+      "expected": "Berkshire's total revenues in 2025 were $371.444 billion, nearly identical to $371.433 billion in 2024.",
+      "actual": "According to the document, Berkshire's total revenues in 2025 were **$371,444 million** (or approximately $371.4 billion).\n\nThis total comprised:\n- Insurance and Other: $321,721 million\n- Railroad, Utilities and Energy: $49,723 million",
+      "score": 0.85
+    },
+    {
+      "question": "What were Berkshire's net earnings attributable to shareholders in 2025?",
+      "expected": "Net earnings attributable to Berkshire shareholders were $66.968 billion in 2025, down from $88.995 billion in 2024.",
+      "actual": "According to the document, Berkshire's net earnings attributable to shareholders in 2025 were **$66,968 million** (or approximately $67.0 billion).",
+      "score": 0.7
+    },
+    {
+      "question": "How much cash and U.S. Treasury holdings does Berkshire hold?",
+      "expected": "Berkshire's cash and U.S. Treasury holdings now exceed $370 billion.",
+      "actual": "According to the document, Berkshire's cash and U.S. Treasury holdings exceed **$370 billion**.\n\nMore specifically, the document states that \"At December 31, 2025, our insurance and other businesses held cash, cash equivalents and U.S. Treasury Bills (net of payables for unsettled purchases) of **$369.0 billion**.\"",
+      "score": 0.95
+    },
+    {
+      "question": "How much net cash did Berkshire generate from operating activities in 2025?",
+      "expected": "Berkshire produced $46 billion of net cash flows from operating activities in 2025, compared to a five-year average of more than $40 billion.",
+      "actual": "According to the Consolidated Statements of Cash Flows, Berkshire Hathaway generated **$45.969 billion** (or approximately **$46 billion**) in net cash flows from operating activities in 2025.\n\nThis is also confirmed in the Management's Discussion and Analysis section, which states: \"In 2025, our diverse group of businesses generated net operating cash flows of $46.0 billion.\"",
+      "score": 0.7
+    },
+    {
+      "question": "What is the market value of Berkshire's Apple holding?",
+      "expected": "Berkshire owns 1.6% of Apple Inc. with a market value of $61.962 billion as of December 31, 2025, at a cost basis of $6.255 billion.",
+      "actual": "I couldn't find that in the document. The document provided does not contain information about the market value of Berkshire's Apple holding.",
+      "score": 0.0
+    },
+    {
+      "question": "What were GEICO's premiums written and pre-tax underwriting earnings in 2025?",
+      "expected": "GEICO's premiums written were $45.193 billion in 2025, and pre-tax underwriting earnings were $6.824 billion, down from $7.813 billion in 2024.",
+      "actual": "According to the document, GEICO's 2025 results were:\n\n- **Premiums written:** $45,193 million\n- **Pre-tax underwriting earnings:** $6,824 million",
+      "score": 0.7
+    },
+    {
+      "question": "What was GEICO's combined ratio in 2025?",
+      "expected": "GEICO's total losses and expenses ratio was 84.7% in 2025 (72.3% loss ratio + 12.4% expense ratio), compared to 81.5% in 2024.",
+      "actual": "I couldn't find that in the document.\n\nWhile the document provides GEICO's loss ratio for 2025 (72.3%) and mentions the expense ratio (12.4%), it does not explicitly state the combined ratio. The combined ratio would be the sum of these two ratios, but the document does not provide this calculated figure.",
+      "score": 0.2
+    },
+    {
+      "question": "How did BNSF perform in 2025?",
+      "expected": "BNSF produced $8.1 billion in net operating cash flows in 2025 and returned $4.4 billion to Berkshire through dividends. Its operating margin improved to 34.5% from 32.0% in 2024.",
+      "actual": "# BNSF 2025 Performance Summary\n\nBased on the document, here are BNSF's key 2025 performance metrics:\n\n## Financial Results\n- **Net earnings**: $5.5 billion (up 8.8% vs. 2024)\n- **Pre-tax earnings**: $7.2 billion (up 7.9% vs. 2024)\n- **Railroad operating revenues**: $23.4 billion (essentially flat vs. 2024)\n- **Railroad operating earnings**: $8.1 billion (up 7.8% vs. 2024)\n- **Operating cash flows**: $8.1 billion\n- **Dividends to Berkshire**: $4.4 billion\n\n## Operating Efficiency\n- **Operating ratio**: Improved to 65.5% (down 2.5 percentage points from 2024)\n- **Operating margin**: Improved to 34.5% from 32.0% in 2024\n\n## Cost Performance\n- **Operating expenses**: $15.3 billion (down 3.7% vs. 2024)\n- Compensation and benefits decreased $338 million (5.8%)\n- Fuel expense declined $256 million (7.8%)\n\n## Operational Highlights\n- Shipments spent less time idling at terminals and moved through the network faster than in nearly any year in the company's history\n- Safety remained the top priority, with BNSF being the industry leader for the past decade\n- Railroad freight volumes increased 0.3% with total cars/units of 9,622 thousand",
+      "score": 1.0
+    },
+    {
+      "question": "How much did BHE produce in net cash flows from operating activities in 2025?",
+      "expected": "BHE produced $8.4 billion in net cash flows from operating activities in 2025, consistent with its five-year average.",
+      "actual": "According to the document, BHE produced **$8.4 billion** in net cash flows from operating activities in 2025, which was consistent with its five-year average.",
+      "score": 1.0
+    },
+    {
+      "question": "Did Berkshire repurchase any shares in 2025?",
+      "expected": "There were no share repurchases in 2025. No Class A or Class B shares were repurchased in the fourth quarter of 2025.",
+      "actual": "No, Berkshire did not repurchase any shares in 2025. According to the document, \"There were no share repurchases in 2025.\" Additionally, the document states that \"No Class A or Class B shares were repurchased in the fourth quarter of 2025.\"",
+      "score": 1.0
+    },
+    {
+      "question": "What is Berkshire's philosophy on share buybacks?",
+      "expected": "Berkshire will buy back shares only when they trade below its estimate of intrinsic value, conservatively determined, ensuring repurchases enhance per-share value for continuing shareholders. The company will not repurchase shares if doing so would reduce cash, cash equivalents, and U.S. Treasury Bill holdings below $30 billion.",
+      "actual": "Based on the document, Berkshire's philosophy on share buybacks is:\n\n1. **Value-Based Approach**: Berkshire will buy back its shares when they trade below the company's estimate of intrinsic value, conservatively determined.\n\n2. **Per-Share Value Enhancement**: Repurchases are executed to ensure that buybacks enhance per-share value for continuing shareholders.\n\n3. **Direct Block Purchases**: Berkshire may also purchase large blocks of shares directly from major shareholders when opportunities present themselves. These purchases allow remaining shareholders to own an incrementally larger piece of Berkshire's businesses without deploying additional capital of their own.\n\n4. **Capital Allocation Tool**: Share repurchases are described as \"another important capital allocation option,\" alongside other uses of capital like acquisitions and investments.\n\n5. **Amended Authority**: As of 2025, the company's repurchase program was amended to permit Berkshire's Chief Executive Officer (after consultation with the Chairman of the Board) to repurchase shares when the price is below intrinsic value, conservatively determined. Repurchases may be made in the open market or through privately negotiated transactions.",
+      "score": 0.75
+    },
+    {
+      "question": "What are Berkshire's four largest U.S. equity holdings and their market values?",
+      "expected": "Berkshire's four largest U.S. equity holdings as of December 31, 2025 are: Apple ($61.962 billion), American Express ($56.088 billion), Coca-Cola ($27.964 billion), and Moody's ($12.603 billion), totaling $158.617 billion in market value.",
+      "actual": "I couldn't find that in the document.\n\nThe document provided does not contain information about Berkshire's four largest U.S. equity holdings or their market values. While the document discusses Berkshire's general investment philosophy and capital allocation principles, it does not include specific details about individual equity holdings.",
+      "score": 0.0
+    },
+    {
+      "question": "What was Berkshire's property and casualty combined ratio in 2025 and how does it compare historically?",
+      "expected": "Berkshire produced a combined ratio of 87.1% across its property and casualty businesses in 2025, comparing favorably with its five-year average of 90.7%, ten-year average of 93.0%, and twenty-year average of 92.2%.",
+      "actual": "According to the document, Berkshire's property and casualty combined ratio in 2025 was **87.1%**.\n\nHere's how it compares historically:\n\n- **Five-year average:** 90.7%\n- **Ten-year average:** 93.0%\n- **Twenty-year average:** 92.2%\n\nThe document describes this 87.1% result as \"an exceptional underwriting result for an insurer of our scale,\" as it compares favorably to all of these historical benchmarks.",
+      "score": 1.0
+    },
+    {
+      "question": "What does the letter say about Berkshire's reason for holding so much cash?",
+      "expected": "The letter states that Berkshire maintains exceptional financial strength as a strategic asset. The cash and U.S. Treasury holdings exceeding $370 billion serve as both required support for insurance operations, protection against extreme scenarios, and dry powder to act decisively when opportunities arise. Berkshire will always aim for ownership of productive businesses over U.S. Treasuries.",
+      "actual": "According to the document, Berkshire holds cash and U.S. Treasury holdings exceeding $370 billion for several reasons:\n\n1. **Support for insurance operations**: Some capital is required to support Berkshire's insurance operations.\n\n2. **Protection against extreme scenarios**: Capital is needed to protect Berkshire against extreme scenarios.\n\n3. **\"Dry powder\" for deployment**: The cash also constitutes \"dry powder\" - capital available for future opportunities to deploy shareholders' capital without compromising Berkshire's resilience.\n\nThe letter emphasizes that while some of this capital serves protective purposes, it also enables Berkshire to act decisively and invest when opportunities arise. As stated in the document: \"Our substantial liquidity enables us to meet our obligations even under the most adverse conditions and to respond swiftly when opportunities arise.\"",
+      "score": 0.85
+    }
+  ]
+}

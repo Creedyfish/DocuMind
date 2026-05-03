@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What were Berkshire's operating earnings in 2025 compared to 2024?",
+    "expected": "Berkshire delivered operating earnings of $44.5 billion in 2025, below $47.4 billion in 2024."
+  },
+  {
+    "question": "What were Berkshire's total revenues in 2025?",
+    "expected": "Berkshire's total revenues in 2025 were $371.444 billion, nearly identical to $371.433 billion in 2024."
+  },
+  {
+    "question": "What were Berkshire's net earnings attributable to shareholders in 2025?",
+    "expected": "Net earnings attributable to Berkshire shareholders were $66.968 billion in 2025, down from $88.995 billion in 2024."
+  },
+  {
+    "question": "How much cash and U.S. Treasury holdings does Berkshire hold?",
+    "expected": "Berkshire's cash and U.S. Treasury holdings now exceed $370 billion."
+  },
+  {
+    "question": "How much net cash did Berkshire generate from operating activities in 2025?",
+    "expected": "Berkshire produced $46 billion of net cash flows from operating activities in 2025, compared to a five-year average of more than $40 billion."
+  },
+  {
+    "question": "What is the market value of Berkshire's Apple holding?",
+    "expected": "Berkshire owns 1.6% of Apple Inc. with a market value of $61.962 billion as of December 31, 2025, at a cost basis of $6.255 billion."
+  },
+  {
+    "question": "What were GEICO's premiums written and pre-tax underwriting earnings in 2025?",
+    "expected": "GEICO's premiums written were $45.193 billion in 2025, and pre-tax underwriting earnings were $6.824 billion, down from $7.813 billion in 2024."
+  },
+  {
+    "question": "What was GEICO's combined ratio in 2025?",
+    "expected": "GEICO's total losses and expenses ratio was 84.7% in 2025 (72.3% loss ratio + 12.4% expense ratio), compared to 81.5% in 2024."
+  },
+  {
+    "question": "How did BNSF perform in 2025?",
+    "expected": "BNSF produced $8.1 billion in net operating cash flows in 2025 and returned $4.4 billion to Berkshire through dividends. Its operating margin improved to 34.5% from 32.0% in 2024."
+  },
+  {
+    "question": "How much did BHE produce in net cash flows from operating activities in 2025?",
+    "expected": "BHE produced $8.4 billion in net cash flows from operating activities in 2025, consistent with its five-year average."
+  },
+  {
+    "question": "Did Berkshire repurchase any shares in 2025?",
+    "expected": "There were no share repurchases in 2025. No Class A or Class B shares were repurchased in the fourth quarter of 2025."
+  },
+  {
+    "question": "What is Berkshire's philosophy on share buybacks?",
+    "expected": "Berkshire will buy back shares only when they trade below its estimate of intrinsic value, conservatively determined, ensuring repurchases enhance per-share value for continuing shareholders. The company will not repurchase shares if doing so would reduce cash, cash equivalents, and U.S. Treasury Bill holdings below $30 billion."
+  },
+  {
+    "question": "What are Berkshire's four largest U.S. equity holdings and their market values?",
+    "expected": "Berkshire's four largest U.S. equity holdings as of December 31, 2025 are: Apple ($61.962 billion), American Express ($56.088 billion), Coca-Cola ($27.964 billion), and Moody's ($12.603 billion), totaling $158.617 billion in market value."
+  },
+  {
+    "question": "What was Berkshire's property and casualty combined ratio in 2025 and how does it compare historically?",
+    "expected": "Berkshire produced a combined ratio of 87.1% across its property and casualty businesses in 2025, comparing favorably with its five-year average of 90.7%, ten-year average of 93.0%, and twenty-year average of 92.2%."
+  },
+  {
+    "question": "What does the letter say about Berkshire's reason for holding so much cash?",
+    "expected": "The letter states that Berkshire maintains exceptional financial strength as a strategic asset. The cash and U.S. Treasury holdings exceeding $370 billion serve as both required support for insurance operations, protection against extreme scenarios, and dry powder to act decisively when opportunities arise. Berkshire will always aim for ownership of productive businesses over U.S. Treasuries."
+  }
+]
