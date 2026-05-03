@@ -183,7 +183,7 @@ export default function ChatPage() {
 
     try {
       const data = await api
-        .url("/api/v1/chat/")
+        .url("/api/v1/chat")
         .json({
           question: text,
           session_id: sessionId,
