@@ -8,3 +8,6 @@ pypdf
 pydantic-settings
 langchain-text-splitters
 slowapi
+sqlalchemy
+psycopg2-binary
+pgvector
