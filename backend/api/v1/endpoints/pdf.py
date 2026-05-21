@@ -12,7 +12,7 @@ router = APIRouter()
 
 
 @router.post("/upload")
-@limiter.limit("2/day")
+@limiter.limit("5/day")
 async def upload_pdf(request: Request, file: UploadFile, session_id: str):
     MAX_FILE_SIZE = 10 * 1024 * 1024  # 10MB
 
