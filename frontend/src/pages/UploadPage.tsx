@@ -194,7 +194,9 @@ export default function UploadPage() {
         navigate("/chat");
       }
     } catch {
-      setError("Upload failed. Make sure the backend is running.");
+      setError(
+        "Upload failed. Something went wrong please wait for a few minutes and try again.",
+      );
     } finally {
       setLoading(false);
     }
